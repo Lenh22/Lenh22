@@ -9,7 +9,7 @@ ___
 <a href="https://github.com/Lenh22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Leandro Alonso - GitHub" height="30" width="40" />GitHub</a>
 
 
-<a style="color=red;" href="mailto:lea.alonso99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />lea.alonso99@gmail.com</a>
+<a style="color:red;" href="mailto:lea.alonso99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />lea.alonso99@gmail.com</a>
 </p>
 
 ___
