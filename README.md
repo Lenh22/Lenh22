@@ -4,7 +4,7 @@ ___
 
 ### Contactos
 
-<a href="https://www.linkedin.com/in/lean-alonso/" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Leandro Alonso - LinkedIn" height="30" width="40" />LinkedIn</a>
+<a href="https://www.linkedin.com/in/lean-alonso/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Leandro Alonso - LinkedIn" height="30" width="40" />LinkedIn</a>
 
 <a href="https://github.com/Lenh22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Leandro Alonso - GitHub" height="30" width="40" />GitHub</a>
 
@@ -32,10 +32,10 @@ ____
 
 
 <p align="left>
-<a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs.svg" alt="angularjs" width="65" height="65"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap.svg" alt="bootstrap" width="65" height="65"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3.svg" alt="css3" width="65" height="65"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5.svg" alt="html5" width="65" height="65"/> </a> 
+<a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="angularjs" width="65" height="65"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="bootstrap" width="65" height="65"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="65" height="65"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="65" height="65"/> </a> 
 </p>
 
 
