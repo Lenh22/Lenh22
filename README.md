@@ -1,4 +1,4 @@
-### <p aling="center"> Hola, soy Len 👋 </p>
+### <p  style="color:Tomato;" aling="center"> Hola, soy Len 👋 </p>
 #### Estudiante para Desarrollador web full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
 ___
 
@@ -9,7 +9,7 @@ ___
 <a href="https://github.com/Lenh22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Leandro Alonso - GitHub" height="30" width="40" />GitHub</a>
 
 
-<a  style="color:Tomato;" href="mailto:lea.alonso99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Leandro Alonso" height="30" width="40" />lea.alonso99@gmail.com</a>
+<a href="mailto:lea.alonso99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Leandro Alonso" height="30" width="40" />lea.alonso99@gmail.com</a>
 </p>
 
 ___
