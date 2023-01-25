@@ -9,7 +9,7 @@ ___
 <a href="https://github.com/Lenh22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Leandro Alonso - GitHub" height="30" width="40" />GitHub</a>
 
 
-<a href="mailto:lea.alonso99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />lea.alonso99@gmail.com</a>
+<a style="color=red;" href="mailto:lea.alonso99@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />lea.alonso99@gmail.com</a>
 </p>
 
 ___
@@ -45,7 +45,7 @@ ____
 ##### Backend Development
 <p align="left"> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="nodejs" width="65" height="65"/> </a>
-<a href="https://docs.spring.io/spring-boot/docs/2.4.12/reference/html/documentation-overview.html#boot-documentation-about" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/spring.svg" alt="Spring" width="65" height="65"/> </a>
+<a href="https://docs.spring.io/spring-boot/docs/2.4.12/reference/html/documentation-overview.html#boot-documentation-about" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" alt="Spring" width="65" height="65"/> </a>
 </p>
 
 
