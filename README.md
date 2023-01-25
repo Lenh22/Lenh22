@@ -72,9 +72,7 @@ _____
 
 #### Algunos de mis proyectos:
 
-|---|---|
-| <a href="https://ftend-porfolio.web.app/" target="_blank">PortFolio para Argentina Programa</a> |  
-<a href="https://lenh22.github.io/TPGrupalVisualizacioneInterfaces/" target="_blank"> Tarea para la Universidad</a> | 
+| <a href="https://ftend-porfolio.web.app/" target="_blank">PortFolio para Argentina Programa</a> | <a href="https://lenh22.github.io/TPGrupalVisualizacioneInterfaces/" target="_blank"> Tarea para la Universidad</a> | 
 
 
 
