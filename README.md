@@ -1,5 +1,5 @@
 
-<img img src="img/Presentacion.png" alt="Presentacion" />
+<img img src="img/Presentacion-sin-linea.png" alt="Presentacion" />
 
 #### Estudiante para Desarrollador web full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
 ___
