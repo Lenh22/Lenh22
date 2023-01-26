@@ -70,7 +70,8 @@ _____
 
 _____
 
-! [GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lenh22&theme=radical)
+ <img aling="center" src="https://github-readme-stats.vercel.app/api?username=Lenh22&theme=radical" alt="GitHubStats"/> 
+
 _____
 
 
