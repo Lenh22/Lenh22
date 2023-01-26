@@ -68,6 +68,11 @@ _____
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
 </p>
 
+_____
+
+! [GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lenh22&theme=radical)
+_____
+
 
 #### Algunos de mis proyectos:
 
