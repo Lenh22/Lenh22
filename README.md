@@ -79,7 +79,7 @@ _____
 
 #### Algunos de mis proyectos:
 
-| <a href="https://ftend-porfolio.web.app/" target="_blank">PortFolio para Argentina Programa</a> | <a href="https://lenh22.github.io/TPGrupalVisualizacioneInterfaces/" target="_blank"> Proyecto para Visualizaciones e Interfaces</a> | <a href="https://tp-taller-2-libros.vercel.app/" target="_blank">Proyecto para Taller 2</a>
+| <a href="https://ftend-porfolio.web.app/" target="_blank">PortFolio para Argentina Programa</a> | <a href="https://lenh22.github.io/TPGrupalVisualizacioneInterfaces/" target="_blank"> Pagina CovPlus para Visualizaciones e Interfaces</a> | <a href="https://tp-taller-2-libros.vercel.app/" target="_blank">Libreria (Falsa) "El Romano" para Taller 2</a>
 
 
 
