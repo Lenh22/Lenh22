@@ -1,7 +1,7 @@
 
 <img img src="img/Presentacion-sin-linea.png" alt="Presentacion" />
 
-#### Estudiante para Desarrollador web full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
+#### Técnico en Desarrollo web full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
 ___
 
 ### Contactos
