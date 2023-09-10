@@ -70,9 +70,6 @@ _____
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
 </p>
 
-_____
-
- <img aling="center" src="https://github-readme-stats.vercel.app/api?username=Lenh22&theme=radical" alt="GitHubStats"/> 
 
 _____
 
