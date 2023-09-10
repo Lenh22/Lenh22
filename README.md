@@ -35,6 +35,7 @@ ____
 
 <p align="left>
 <a href="https://angular.io" target="_blank"> <img src="icons/angular.png" alt="angularjs"  width="40" height="40"/> </a>
+<a href="https://www.react.dev" target="_blank"> <img src="icons/react.png" alt="reactjs"  width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="icons/bootstrap.png" alt="bootstrap"  width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/css-3.png" alt="css3"  width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="icons/html-5.svg" alt="html5"  width="40" height="40"/> </a> 
@@ -76,7 +77,7 @@ _____
 
 #### Algunos de mis proyectos:
 
-| <a href="https://ftend-porfolio.web.app/" target="_blank">PortFolio para Argentina Programa</a> | <a href="https://lenh22.github.io/TPGrupalVisualizacioneInterfaces/" target="_blank"> Pagina CovPlus para Visualizaciones e Interfaces</a> | <a href="https://tp-taller-2-libros.vercel.app/" target="_blank">Libreria (Falsa) "El Romano" para Taller 2</a>
+| <a href="https://ftend-porfolio.web.app/" target="_blank">PortFolio para Argentina Programa</a> | <a href="https://lenh22.github.io/TPGrupalVisualizacioneInterfaces/" target="_blank"> Pagina CovPlus para Visualizaciones e Interfaces</a> | <a href="https://tp-taller-2-libros.vercel.app/" target="_blank">Libreria (Falsa) "El Romano" para Taller 2</a> | <a href="https://www.pce.amcham.com.ar/" target="_blank"> Premio Ciudadanía Empresaria - AmCham Argentina </a>
 
 
 
