@@ -1,7 +1,7 @@
 
 <img img src="img/Presentacion-sin-linea.png" alt="Presentacion" />
 
-#### Técnico en Desarrollo web full-stack 💻
+#### Desarrollador Backend / Full Stack 💻 · .NET · AWS · React
 ___
 
 ### Contactos
