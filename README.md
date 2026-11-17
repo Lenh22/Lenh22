@@ -1,89 +1,82 @@
+<img src="img/Presentacion-sin-linea.png" alt="Hola, soy Len - Desarrollador web" />
 
-<img img src="img/Presentacion-sin-linea.png" alt="Presentacion" />
+<h3 align="center">Desarrollador Backend / Full Stack · .NET · AWS · React</h3>
 
-#### Desarrollador Backend / Full Stack 💻 · .NET · AWS · React
-___
-
-### Contactos
-
-<a href="https://www.linkedin.com/in/lean-alonso/" target="blank"><img align="center" src="icons/linkedin.png" alt="Leandro Alonso - LinkedIn" height="40" width="40" />  |  LinkedIn</a>
-
-<a href="https://github.com/Lenh22" target="blank"><img align="center" src="icons/github.png" alt="Leandro Alonso - GitHub" height="40" width="40" />  |  GitHub</a>
-
-
-<a color="red" href="mailto:lea.alonso99@gmail.com" target="blank"><img align="center" src="icons/google-gmail.svg" alt="Leandro Alonso" height="40" width="40" />  |  lea.alonso99@gmail.com</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lean-alonso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:lea.alonso99@gmail.com"><img src="https://img.shields.io/badge/Email-lea.alonso99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Buenos_Aires-Argentina-74ACDF?style=for-the-badge" alt="Buenos Aires, Argentina" />
 </p>
 
-___
+---
 
-##### Programming Languages
+### 👋 Sobre mí
 
+- 💻 Desarrollador **Backend / Full Stack** con más de 4 años de experiencia: APIs REST, microservicios y servicios **serverless** con **C# / .NET**, **Python** y **Node.js** sobre **AWS**, y frontends en **React + TypeScript**.
+- 🏢 Hoy trabajo en **AmCham Argentina**: backend serverless en AWS, integración con el CRM **Dynamics 365** y notificaciones por **WhatsApp (Twilio)** y **email (SendGrid)**.
+- 🤖 Uso la IA en el desarrollo todos los días: armé agentes de revisión de código para **Claude Code** que el equipo corre en cada cambio.
+- 🎓 Licenciado en Gestión de la Tecnología y Técnico en Desarrollo Web (UNLaM).
+- 🌎 Español nativo · Inglés intermedio (B1)
 
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="icons/javascript.png" alt="javascript" width="40" height="40"/> 
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="icons/typescript.png" alt="typescript"width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="icons/c-sharp.svg" alt="C#" width="40" height="40"/> </a>
-<a href="https://docs.oracle.com/en/java/" target="_blank"><img src="icons/java.svg" alt="Java" width="40" height="40"/> </a>
- <a href="https://www.php.net/docs.php" target="_blank"><img src="icons/php.svg" alt="Java" width="40" height="40"/> </a>
+### 🚀 Lo que estuve haciendo
+
+| | |
+|---|---|
+| 🔐 **Login unificado** | Backend serverless en Python (~22 Lambdas, API Gateway, DynamoDB, Cognito) y front en React. Reemplazó un sistema legacy sin desloguear a nadie y hoy da la sesión a 5 aplicaciones. |
+| ⚙️ **Migración de runtimes** | 40 Lambdas pasadas a Node 24 y Python 3.14, sin runtimes vencidos en producción. |
+| 📈 **Monitoreo** | Chequeo sintético cada 15 minutos y alarmas en CloudWatch con aviso por mail y Teams. |
+| 🤖 **Agentes de IA** | 12 agentes para Claude Code (seguridad, calidad, rendimiento, costos, UX) empaquetados en plugins para el equipo. |
+
+### 🛠️ Tecnologías
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,nodejs" alt="C#, .NET, Python, Node.js" />
 </p>
 
-____
-
-
-##### FrontEnd Development
-
-
-<p align="left>
-<a href="https://angular.io" target="_blank"> <img src="icons/angular.png" alt="angularjs"  width="40" height="40"/> </a>
-<a href="https://www.react.dev" target="_blank"> <img src="icons/react.png" alt="reactjs"  width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="icons/bootstrap.png" alt="bootstrap"  width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="icons/css-3.png" alt="css3"  width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="icons/html-5.svg" alt="html5"  width="40" height="40"/> </a> 
+**Cloud (AWS)**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  <br/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square" alt="Lambda" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square" alt="API Gateway" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square" alt="S3" />
+  <img src="https://img.shields.io/badge/Cognito-DD344C?style=flat-square" alt="Cognito" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" alt="CloudWatch" />
 </p>
 
-
-____
-
-
-##### Backend Development
-<p align="left"> 
-<a href="https://nodejs.org" target="_blank"> <img src="icons/node-js.svg" alt="nodejs" width="65" height="65"/> </a>
-<a href="https://docs.spring.io/spring-boot/docs/2.4.12/reference/html/documentation-overview.html#boot-documentation-about" target="_blank"> <img src="icons/spring-boot.svg" alt="Spring" width="65" height="65"/> </a>
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,angular,html,css" alt="React, TypeScript, JavaScript, Angular, HTML, CSS" />
 </p>
 
-
-_____
-
-
-##### Database
-<p align="left"> 
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view" target="_blank"> <img src="icons/microsoft-sql-server.svg" alt="sql-server" width="65" height="65"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="icons/mysql.svg" alt="mysql" width="65" height="65"/> </a> 
+**Bases de datos**
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-
-_____
-
-
- ##### Others
- <p align="left"> 
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
+**Integraciones e IA**
+<p>
+  <img src="https://img.shields.io/badge/Dynamics_365-0B53CE?style=for-the-badge" alt="Dynamics 365" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge" alt="SendGrid" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" alt="MCP" />
 </p>
 
+**Herramientas**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode" alt="Git, GitHub, Postman, Visual Studio, VS Code" />
+</p>
 
-_____
+### 📂 Algunos proyectos
 
-
-#### Algunos de mis proyectos:
-
-  <a href="https://www.amcham.com.ar/" target="_blank"> AmCham Connect </a>
-| <a href="https://www.pce.amcham.com.ar/" target="_blank"> Premio Ciudadanía Empresaria - AmCham Argentina </a> 
-| <a href="https://lenh22.github.io/TPGrupalVisualizacioneInterfaces/" target="_blank"> Pagina CovPlus para Visualizaciones e Interfaces</a> 
-| <a href="https://tp-taller-2-libros.vercel.app/" target="_blank">Libreria (Fake) "El Romano"</a> 
-
-
-
-
-
-
+| Proyecto | Qué es |
+|---|---|
+| <a href="https://www.amcham.com.ar/" target="_blank">AmCham Connect</a> | Frontend hecho desde cero en React + TypeScript |
+| <a href="https://www.pce.amcham.com.ar/" target="_blank">Premio Ciudadanía Empresaria</a> | Sitio del premio de AmCham Argentina, en React + TypeScript |
+| <a href="https://lenh22.github.io/TPGrupalVisualizacioneInterfaces/" target="_blank">CovPlus</a> | Trabajo práctico de Visualización e Interfaces (UNLaM) |
+| <a href="https://tp-taller-2-libros.vercel.app/" target="_blank">Librería "El Romano"</a> | Tienda de libros de práctica, para Taller 2 (UNLaM) |
